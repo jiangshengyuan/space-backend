@@ -11,6 +11,6 @@ public class TestController {
     public String getEnum() {
          return DictCodeEnum.USER_ROLE_ADMIN.getVCategory()
          + DictCodeEnum.USER_ROLE_ADMIN.getKey()
-         + DictCodeEnum.USER_ROLE_ADMIN.getValue();
+         + DictCodeEnum.USER_ROLE_NORMAL.getValue();
     }
 }
