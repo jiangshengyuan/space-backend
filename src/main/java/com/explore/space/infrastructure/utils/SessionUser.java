@@ -1,4 +1,4 @@
-package com.explore.space.common.utils;
+package com.explore.space.infrastructure.utils;
 
 import lombok.Builder;
 import lombok.Data;

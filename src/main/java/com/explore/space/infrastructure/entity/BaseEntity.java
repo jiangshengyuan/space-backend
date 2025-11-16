@@ -1,4 +1,4 @@
-package com.explore.space.common.entity;
+package com.explore.space.infrastructure.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
