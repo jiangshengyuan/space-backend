@@ -1,7 +1,7 @@
 package com.explore.space.infrastructure.enums;
 
 public enum DictCodeEnum {
-    USER_ROLE_ADMIN("0001","0000","admin用户"),
+    USER_ROLE_ADMIN("0001","0000","管理员用户"),
     USER_ROLE_NORMAL("0001","0001","普通用户");
 
     private String category;
